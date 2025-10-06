@@ -19,4 +19,4 @@
 Estoy abierto a colaborar en proyectos web y de software, siguiendo estándares de código, revisiones y metodologías ágiles.
 
 📫 **Contacto:**  
-[Correo](mailto:jmauriciorochaan@correo.com) · [LinkedIn](https://www.linkedin.com/in/jmauriciorocha/) · [Portfolio](mauriciorocha.nocompila.com.mx)
+[Correo](mailto:jmauriciorochaan@correo.com) · [LinkedIn](https://www.linkedin.com/in/jmauriciorocha/) · [Portfolio](https://mauriciorocha.nocompila.com.mx)
