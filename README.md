@@ -5,7 +5,7 @@
 🌎 Mi portfolio está disponible en **[mauriciorocha.nocompila.com.mx]** (español/inglés).
 
 ## 🛠️ Tecnologías
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Material UI, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Material UI, Bootstrap, Angular
 - **Backend / APIs:** PHP, Express.js, RESTful APIs  
 - **Bases de datos:** MySQL, MariaDB
 - **Otros lenguajes:** Python, Java, C++
